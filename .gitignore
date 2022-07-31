@@ -1,3 +1,9 @@
 web3_js/ethers/node_modules
 web3_js/ethers/.env
+web3_js/ethers/.prettierrc
 web3_js/hardhat/node_modules
+web3_js/hardhat/artifacts
+web3_js/hardhat/cache
+web3_js/hardhat/.env
+web3_js/hardhat/.prettierignore
+web3_js/hardhat/.prettierrc
