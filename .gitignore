@@ -1,10 +1,31 @@
+# Ethers
 web3_js/ethers/node_modules
 web3_js/ethers/.env
 web3_js/ethers/.prettierrc
-web3_js/hardhat/node_modules
-web3_js/hardhat/artifacts
-web3_js/hardhat/cache
-web3_js/hardhat/gas-report.txt
-web3_js/hardhat/.env
-web3_js/hardhat/.prettierignore
-web3_js/hardhat/.prettierrc
+web3_js/ethers/.*
+
+# Hardhat
+# Hardhat Simple Storage
+web3_js/hardhat/hardhat_simplestorage/node_modules
+web3_js/hardhat/hardhat_simplestorage/artifacts
+web3_js/hardhat/hardhat_simplestorage/cache
+web3_js/hardhat/hardhat_simplestorage/img
+web3_js/hardhat/hardhat_simplestorage/package.json
+web3_js/hardhat/hardhat_simplestorage/gas-report.txt
+web3_js/hardhat/hardhat_simplestorage/.env
+web3_js/hardhat/hardhat_simplestorage/.prettierignore
+web3_js/hardhat/hardhat_simplestorage/.prettierrc
+web3_js/hardhat/hardhat_simplestorage/.*
+
+
+# Hardhat Fund Me
+web3_js/hardhat/hardhat_fundme/node_modules
+web3_js/hardhat/hardhat_fundme/artifacts
+web3_js/hardhat/hardhat_fundme/cache
+web3_js/hardhat/hardhat_fundme/img
+web3_js/hardhat/hardhat_fundme/package.json
+web3_js/hardhat/hardhat_fundme/gas-report.txt
+web3_js/hardhat/hardhat_fundme/.env
+web3_js/hardhat/hardhat_fundme/.prettierignore
+web3_js/hardhat/hardhat_fundme/.prettierrc
+web3_js/hardhat/hardhat_fundme/.*
